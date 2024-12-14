@@ -108,13 +108,6 @@ npm run start
 
 ---
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
 ## Contact
 
 Project Link: [https://github.com/0xChintan/advanced-task-management](https://github.com/0xChintan/advanced-task-management)
-# advanced-task-management
